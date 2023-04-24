@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "903920042683",
+    "firebase_url": "https://lastphotosflickr-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "lastphotosflickr",
+    "storage_bucket": "lastphotosflickr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903920042683:android:35181ff1d28f978d5d5f9e",
+        "android_client_info": {
+          "package_name": "com.example.findflickrrecentphotosapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903920042683-pihkf7d9btcs0ad44ecq3l3imp5s2g3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT0MhMBWhP5K9He9KEBCDyUizNlqmSyiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903920042683-pihkf7d9btcs0ad44ecq3l3imp5s2g3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
